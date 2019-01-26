@@ -5,5 +5,5 @@ class Artist < ActiveRecord::Base
     self.songs.all.count
   end
 
-  
+
 end
